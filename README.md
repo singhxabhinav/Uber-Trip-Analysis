@@ -43,25 +43,15 @@ This Power BI project analyzes Uber trip data from **New Jersey in June 2024** t
 - Power Query for data transformation  
 - Drill-through, conditional formatting, export features  
 
----
-
-## 📁 Project Contents
-
-- `Uber_Trip_Analysis_Dashboard.pbix`  
-- `Insights_Report.pdf`  
-- `/images/` – DAX expressions, visuals  
-- `README.md` – Project overview  
-
----
 
 ## 🎥 Demo Video & Repo
 
-Watch demo: [Insert Video Link]  
-View full repo: [Insert GitHub Link]
+Watch demo: https://www.linkedin.com/feed/update/urn:li:activity:7330567842402095105/ 
 
 ---
 
 ## 🤝 Connect
 
-📧 [Your Email]  
-🔗 [LinkedIn Profile]  
+📧 Email : abhinavxsingh28@gmail.com
+
+🔗 linkedin : https://www.linkedin.com/in/abhinavxsingh28/
