@@ -44,7 +44,7 @@ This Power BI project analyzes Uber trip data from **New Jersey in June 2024** t
 - Drill-through, conditional formatting, export features  
 
 
-## 🎥 Demo Video & Repo
+## 🎥 Demo Video 
 
 Watch demo: https://www.linkedin.com/feed/update/urn:li:activity:7330567842402095105/ 
 
